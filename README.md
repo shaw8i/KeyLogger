@@ -3,7 +3,7 @@ Python3
 
 # Requirements
 
-pynputr
+pynput
 
 
 logging
